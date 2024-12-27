@@ -8,4 +8,7 @@ Microcontroller (e.g., Arduino, ESP32), ECG sensor (e.g., AD8232), Wi-Fi module 
 Ubidots IoT platform, Arduino IDE for programming, any libraries used (e.g., Ubidots library, ECG sensor library)
 ### Others: 
 IoT, Cloud computing
+### output
+![image](https://github.com/user-attachments/assets/48aae81f-f87a-42fa-ae5e-efb43d7110d4)
+
 
